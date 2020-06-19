@@ -1,3 +1,7 @@
+# SET UP TODOS
+
+## An incomplete list
+
 - open terminal
 - github
 - learn some command line
@@ -8,11 +12,19 @@
 - clone repo
 - learn git commands
   - Prettier
-  - Vuetur 
+  - Vuetur
+  - todo tree :)
+    - PLANS tag
 - Live Share
 - Discord
-- yarn serve 
-- 
+- yarn serve
 - JS course
 - Vue tutorial
 - unit testing pluggins
+  - I highkey forget how i did this...
+
+## Reminders for Zoe
+
+- push, pull, branches, commits
+- todo set up
+- the beauty of md
