@@ -1,5 +1,4 @@
 - open terminal
-- 
 - github
 - learn some command line
 - VS Code
